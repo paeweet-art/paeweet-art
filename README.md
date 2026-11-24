@@ -42,8 +42,8 @@
 ตะลุยดันเจี้ยนโครงสร้างข้อมูล อัลกอริทึม และระบบฐานข้อมูล
 </p>
 <p>
-🛡️ <b>SKILL GRINDING — Game Logic & Coding</b><br/>
-อัปเลเวลการเขียนโปรแกรม Python, Java และ JavaScript
+🛡️ <b>SKILL GRINDING — Game Engine & Core Logic</b><br/>
+อัปเลเวลการเขียนโปรแกรม C/C++, Python, Java และ JavaScript
 </p>
 <p>
 🏆 <b>BOSS FIGHT — First Indie Game</b><br/>
@@ -68,6 +68,12 @@
 <td align="center">🗡️ <b>MAIN HAND</b></td>
 <td align="center"><b>🐍 Python</b></td>
 <td align="center"><code>████████░░</code> 80%</td>
+<td align="center"><code>[ RANK-A ]</code></td>
+</tr>
+<tr>
+<td align="center">⚔️ <b>DUAL BLADE</b></td>
+<td align="center"><b>⚙️ C / C++</b></td>
+<td align="center"><code>███████░░░</code> 75%</td>
 <td align="center"><code>[ RANK-A ]</code></td>
 </tr>
 <tr>
@@ -98,25 +104,4 @@
 <p>หากต้องการชวนเข้าปาร์ตี้ทำโปรเจกต์ แข่งขัน Game Jam หรือพูดคุยแลกเปลี่ยน ติดต่อได้ทุกช่องทางด้านล่างครับ!</p>
 
 <p>
-<a href="https://www.facebook.com/search/top?q=Pravee%20Tongma" target="_blank"><img src="https://img.shields.io/badge/Facebook-Pravee_Tongma-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-<a href="https://www.instagram.com/silviazerox" target="_blank"><img src="https://img.shields.io/badge/Instagram-Silviazerox-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="tel:0991872869"><img src="https://img.shields.io/badge/Phone-099--187--2869-00C853?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" /></a>
-<a href="mailto:paewee.t@ku.th"><img src="https://img.shields.io/badge/Email-paewee.t%40ku.th-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<p>
-📘 <b>Facebook :</b> <a href="https://www.facebook.com/search/top?q=Pravee%20Tongma"><code>Pravee Tongma</code></a> &nbsp;|&nbsp;
-📸 <b>Instagram :</b> <a href="https://www.instagram.com/silviazerox"><code>@Silviazerox</code></a> &nbsp;|&nbsp;
-📞 <b>Tel :</b> <code>099-187-2869</code> &nbsp;|&nbsp;
-📧 <b>Mail :</b> <a href="mailto:paewee.t@ku.th"><code>paewee.t@ku.th</code></a>
-</p>
-
-<hr/>
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="45" />
-<br/>
-<code>🕹️ GAME ON | PRESS START TO COLLABORATE 🕹️</code>
-</td>
-</tr>
-</table>
-
-</div>
+<a href="
