@@ -1,21 +1,17 @@
-## สวัสดีครับ ผม ประวีร์ ตรงมา 👋
+<!-- แบนเนอร์หัวข้อแบบเคลื่อนไหว -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=PLAYER%20:%20PRAWEE%20TRONGMA&fontSize=36&fontColor=00f2fe&animation=fadeIn&fontAlignY=38&desc=IT%20Sophomore%20%7C%20Kasetsart%20University%20Kamphaeng%20Saen&descAlignY=58&descSize=16)
 
-นิสิตชั้นปีที่ 2 สาขาเทคโนโลยีสารสนเทศ (IT) จาก **มหาวิทยาลัยเกษตรศาสตร์ กำแพงแสน** มีความสนใจด้านการพัฒนาซอฟต์แวร์และการนำเทคโนโลยีมาแก้ปัญหาในชีวิตจริง ปัจจุบันกำลังฝึกฝนและต่อยอดพื้นฐานการเขียนโปรแกรมเพื่อสร้างโปรเจกต์ของตัวเอง
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+Guild!+%F0%9F%8E%AE;Class+%3A+2nd-Year+IT+Student+%40+KU+KPS;Quest+%3A+Grinding+XP+in+Software+Development" alt="Typing SVG" />
+</div>
 
-### 🌱 ช่วงนี้กำลังทำอะไรอยู่?
-- 🔭 **กำลังเรียน:** โครงสร้างข้อมูลและอัลกอริทึม (Data Structures & Algorithms) และระบบฐานข้อมูล
-- 💻 **กำลังฝึกฝน:** การพัฒนาเว็บไซต์ (HTML/CSS/JavaScript) และภาษา Python
-- 🎯 **เป้าหมาย:** สร้างโปรเจกต์ Full-Stack ชิ้นแรกของตัวเอง และฝึกทำโจทย์เพื่อพัฒนาทักษะการแก้ปัญหา
-- 🤝 **เปิดรับโอกาส:** ร่วมทีมทำโปรเจกต์ แข่งขัน Hackathon หรือแลกเปลี่ยนความรู้ด้านเทคโนโลยี
+---
 
-### 🛠️ ภาษาโปรแกรมและเครื่องมือที่ใช้
-*(สามารถลบตัวที่ยังไม่เคยใช้ หรือเพิ่มตัวที่เรียนในคลาสได้เลยครับ)*
+### 🪪 PLAYER PROFILE (ข้อมูลตัวละคร)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 📫 ช่องทางติดต่อ
-- **อีเมล:** [paewee.t@ku.th]
-- **เบอร์** [099-187-2869]
+```yaml
+Name        : ประวีร์ ตรงมา (Prawee Trongma)
+Guild       : มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตกำแพงแสน (KU KPS)
+Class       : Information Technology (IT) — Level 2 (ชั้นปีที่ 2)
+Specialty   : Software Development & Real-World Problem Solving
+Status      : 🟢 Online — กำลังฟาร์มสกิลและปั้นโปรเจกต์ของตัวเอง
