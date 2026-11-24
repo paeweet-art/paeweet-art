@@ -1,17 +1,34 @@
-<!-- แบนเนอร์หัวข้อแบบเคลื่อนไหว -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=PLAYER%20:%20PRAWEE%20TRONGMA&fontSize=36&fontColor=00f2fe&animation=fadeIn&fontAlignY=38&desc=IT%20Sophomore%20%7C%20Kasetsart%20University%20Kamphaeng%20Saen&descAlignY=58&descSize=16)
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+Guild!+%F0%9F%8E%AE;Class+%3A+2nd-Year+IT+Student+%40+KU+KPS;Quest+%3A+Grinding+XP+in+Software+Development" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:1a1b4b,100:00f2fe&height=230&section=header&text=PRAWEE%20TRONGMA&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%E2%9A%94%EF%B8%8F%20LVL.2%20IT%20DEVELOPER%20%7C%20KU%20KAMPHAENG%20SAEN%20GUILD&descAlignY=58&descSize=16" width="100%" />
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=%3E+System.init(%22Welcome_to_Prawee's_Guild%22)%3B;%3E+Class+%3A+Information+Technology+(Sophomore);%3E+Quest+%3A+Building+Full-Stack+%26+Solving+Problems" alt="Typing SVG" />
+  </a>
 </div>
 
----
+<br/>
 
-### 🪪 PLAYER PROFILE (ข้อมูลตัวละคร)
+<table align="center" width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <h3>🪪 PLAYER CHARACTER SHEET</h3>
 
 ```yaml
-Name        : ประวีร์ ตรงมา (Prawee Trongma)
-Guild       : มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตกำแพงแสน (KU KPS)
-Class       : Information Technology (IT) — Level 2 (ชั้นปีที่ 2)
-Specialty   : Software Development & Real-World Problem Solving
-Status      : 🟢 Online — กำลังฟาร์มสกิลและปั้นโปรเจกต์ของตัวเอง
+[ SYSTEM STATUS : ONLINE 🟢 ]
+
+Player_Name : ประวีร์ ตรงมา (Prawee Trongma)
+Guild       : ม.เกษตรศาสตร์ กำแพงแสน (KU KPS)
+Class       : Information Technology (IT)
+Current_Lvl : Level 2 (นิสิตชั้นปีที่ 2)
+Main_Role   : Software Developer
+Buff        : +50% Curiosity | +30% Problem Solving
+</td>
+<td width="45%" valign="top">
+  <h3>🎯 ACTIVE QUEST LOG</h3>
+  <ul>
+    <li>⚔️ <b>Main Quest:</b><br/>ตะลุยดันเจี้ยน Data Structures & Algorithms และระบบฐานข้อมูล</li>
+    <li>🛡️ <b>Skill Grinding:</b><br/>อัปเลเวลสาย Web Dev (HTML/CSS/JavaScript) และภาษา Python</li>
+    <li>🏆 <b>Boss Fight:</b><br/>สร้างโปรเจกต์ Full-Stack ชิ้นแรกของตัวเอง</li>
+    <li>🤝 <b>Co-op Party:</b><br/>เปิดรับทีมทำโปรเจกต์ & แข่งขัน Hackathon</li>
+  </ul>
+</td>
